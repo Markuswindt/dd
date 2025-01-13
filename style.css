@@ -1,11 +1,13 @@
 #images {
-    width: 93vw;
-    height: 90vh;
-    position: relative;
-    overflow: hidden;
+  margin: auto;
+  width: 100vw;
+  height: 100svh;
+  max-width: 600px;
+  position: relative;
+  overflow: hidden;
 }
 
 img {
-    position: absolute;
-  width:100%;
+  position: absolute;
+  width: 100%;
 }
